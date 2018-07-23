@@ -21,6 +21,15 @@ Includes day and night labels.
 
 <br>
 
+# RGBD dataset list
+### 1. NYU Depth Dataset V2 (ECCV2012)
+[[WebPage]](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html) [[Paper]](https://cs.nyu.edu/~silberman/papers/indoor_seg_support.pdf)  
+
+Indoor scenes as recorded by both the RGB and Depth cameras.  
+A subset contains semantic segmentation label.
+
+<br>
+
 # Reference dataset
 Dataset that only has day or night images.
 
@@ -35,3 +44,9 @@ Daytime images only. Often compare with SYNTHIA dataset.
 
  A vehicle dataset for vision-based place recognition with manually ground truthed frame correspondences.  
  No segmentation/detection label.
+
+### 3. KITTI Dataset (BMVC2017)
+[[WebPage]](http://www.cvlibs.net/datasets/kitti/eval_semseg.php?benchmark=semantics2015) [[Paper]](http://www.cvlibs.net/publications/Alhaija2017BMVC.pdf)
+
+Street image with semantic segmentation annotation.  
+Daytime images only. The data format and metrics are conform with The Cityscapes Dataset.
