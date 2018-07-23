@@ -17,7 +17,7 @@ Includes day and night labels.
 [[WebPage]](http://synthia-dataset.net/) [[Paper]](http://refbase.cvc.uab.es/files/RSM2016.pdf) 
 
 Photo-realistic frames rendered from a virtual city and comes with precise pixel-level semantic annotations.  
-`Includes day and night labels.`
+Includes day and night labels.
 
 <br>
 
