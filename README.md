@@ -8,7 +8,7 @@ Street image with semantic segmentation annotation.
 Includes day and night images but does not contain corresponding labels.
 
 ### [v] 2. KAIST Multispectral Pedestrian Dataset (CVPR2015)
-[[WebPage]](https://sites.google.com/site/pedestrianbenchmark/home) [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Hwang_Multispectral_Pedestrian_Detection_2015_CVPR_paper.pdf)
+[[WebPage]](https://sites.google.com/site/pedestrianbenchmark/home) [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Hwang_Multispectral_Pedestrian_Detection_2015_CVPR_paper.pdf) [[GitHub]](https://github.com/SoonminHwang/rgbt-ped-detection)
 
 Consists of 95k color-thermal pairs (640x480, 20Hz) taken from a vehicle with bounding boxes annotation.   
 Includes day and night labels.
